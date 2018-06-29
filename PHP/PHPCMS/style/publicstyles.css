@@ -1,0 +1,18 @@
+.navbar-nav li{
+    font-size: 1.1em;
+}
+.blogpost{
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+#heading:hover{
+    color: #0090db;
+    font-weight: bold;
+}
+#postentities , #catpost , #heading ,#postarea{
+    direction: rtl;
+    text-align: right;
+}

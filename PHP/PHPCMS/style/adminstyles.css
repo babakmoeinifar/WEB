@@ -1,0 +1,24 @@
+body{
+    background-color: #12323b;
+}
+.navbar-nav li{
+    font-size: 1.1em;
+}
+.col-sm-10{
+    background-color: #ffffff;
+}
+
+#sideMenu a{
+    color: #9fb1c2;
+}
+#sideMenu .active a{
+    color: white;
+    background-color: #27aae1;
+    font-weight: bold;
+}
+#sideMenu a:hover{
+    color: #ffffff;
+    background-color: #1ab394;
+    font-weight: bold;
+    display: block;
+}
